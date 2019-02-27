@@ -1,0 +1,9 @@
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\bin\Debug\AntiVirusGUI.exe
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\bin\Debug\AntiVirusGUI.pdb
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.Form1.resources
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.Properties.Resources.resources
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.exe
+C:\Users\Noah\source\repos\AntiVirusGUI\AntiVirusGUI\obj\Debug\AntiVirusGUI.pdb

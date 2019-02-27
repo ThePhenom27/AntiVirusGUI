@@ -21,6 +21,7 @@ namespace AntiVirusGUI
             int customTex = 0;
             int customColor = 0;
             int IMG = 0;
+            int scanMode = 0;
             customTex = 0;
             customColor = 0;
             IMG = 0;
@@ -31,28 +32,58 @@ namespace AntiVirusGUI
             }
             if (customColor == 1)
             {
-                throw new NotImplementedException();
+                // throw new NotImplementedException();
+                colorSkin();
             }
             if (IMG == 1)
             {
-                throw new NotImplementedException();
+                //  throw new NotImplementedException();
+                enableIMG();
             }
         }
         private void TextSkin()
         {
             Form1.ActiveForm.Text = "";
-            tabPage1.Text = "";
-            tabPage2.Text = "";
-            tabPage3.Text = "";
-            tabPage4.Text = "";
-            tabPage5.Text = "";
-            label1.Text = "";
+            tabPage1.Text = ""; // scan options
+            tabPage2.Text = ""; // scan
+            tabPage3.Text = ""; // license
+            tabPage4.Text = ""; // other
+            tabPage5.Text = ""; // about
+            label1.Text = ""; // name
+            label2.Text = ""; // scan message name
+            radioButton1.Text = ""; // scan option 1
+            radioButton2.Text = ""; // scan option 2
+            radioButton3.Text = ""; // scan option 3
+            button1.Text = ""; // scan button
 
         }
+        private void colorSkin()
+        {
 
+        }
+        private void enableIMG()
+        {
+
+        }
         private void tabPage1_Click(object sender, EventArgs e)
         {
 
         }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+        
     }
 }
