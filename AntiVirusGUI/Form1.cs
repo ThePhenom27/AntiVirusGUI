@@ -21,7 +21,22 @@ namespace AntiVirusGUI
             int customTex = 0;
             int customColor = 0;
             int IMG = 0;
-
+            customTex = 0;
+            customColor = 0;
+            IMG = 0;
+            // change these to modify the GUI.
+            if (customTex == 1)
+            {
+                TextSkin();
+            }
+            if (customColor == 1)
+            {
+                throw new NotImplementedException();
+            }
+            if (IMG == 1)
+            {
+                throw new NotImplementedException();
+            }
         }
         private void TextSkin()
         {
